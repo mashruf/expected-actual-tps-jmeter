@@ -12,3 +12,5 @@ This is a random API from where we can get the list of the users. Here we used j
 ``` https://github.com/mashruf/expected-actual-tps-jmeter ```
 - In the source root project, give the following command:
 ``` jmeter -n -t load-stress-test.jmx -l load-stress-test.csv -e -o report ```
+![tps](https://github.com/mashruf/expected-actual-tps-jmeter/assets/50927464/01615855-383e-42a8-b0ed-89f13a2c3083)
+![Capture](https://github.com/mashruf/expected-actual-tps-jmeter/assets/50927464/e45571af-15b5-4709-b919-4af6bac8261b)
