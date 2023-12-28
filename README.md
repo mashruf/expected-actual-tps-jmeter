@@ -4,7 +4,7 @@
 - Jmeter
 
 ## About this project:
-This is a random API from where we can get the list of the users. Here we used jmeter to find the expected throughput/second and whether the actual throuput/second match the expected throughput/second or not.
+This is a random API from where we can get the list of the users. Here we used jmeter to find the expected throughput/second and whether the actual throuput/second match the expected throughput/second or not. Our condition was to check the TPS for 120000 loads for 12 hours.
 
 ## How to run this project:
 -You need to set path of java home and jmeter home in environment variables.
