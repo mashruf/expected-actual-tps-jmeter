@@ -19,4 +19,5 @@ This is a random API from where we can get the list of the users. Here we used j
 
 
 
-![Capture](https://github.com/mashruf/expected-actual-tps-jmeter/assets/50927464/e45571af-15b5-4709-b919-4af6bac8261b)
+![Capture](https://github.com/mashruf/expected-actual-tps-jmeter/assets/50927464/e0442bd9-4641-447f-a66c-b79a1190e61b)
+
